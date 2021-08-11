@@ -1,0 +1,10 @@
+.Pokecard-container {
+  background-color: rgba(173, 171, 171, 0.5);
+  width: 290px;
+  margin: 4px;
+  border-radius: 25px;
+}
+
+.Pokecard-name {
+  color: blue;
+}
